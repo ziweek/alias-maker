@@ -1,5 +1,10 @@
 # alias-maker
-This simple application is made because I'm too lazy to type codes for alias one by one. In that sense, I really hope this application could also contribute to your laziness.
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+ </div>
+ <br>
+This simple application is made because I'm too lazy to type alias codes one by one. I thought it is not enough worth even to repeat typing same codes. In that sense, I really hope this application could also contribute to your laziness.
 
 ## How to use
 ### 1. Get ready to run code.
@@ -17,7 +22,7 @@ One is the name of script, another is the upper dicrectory of targets.
 python app.py /Users/basecamp/Dropbox/repo/project
 ```
 
-### 3. Then, copy the texts
+### 3. Then, Copy the texts
 ```
 --- alias maker ---
 Detected Folders :
@@ -32,7 +37,7 @@ alias kugods-website="cd /Users/basecamp/Dropbox/repo/project/kugods-website; ls
 ---             ---
 ```
 
-### 4. Finally, paste & apply
+### 4. Finally, Paste & Apply
 ```
 open -e ~/.zshrc
 ```
